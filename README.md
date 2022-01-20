@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bonyeong1998)](https://solved.ac/bonyeong1998/)
-<img align = 'right' src="https://github-readme-stats.vercel.app/api?username=Bonyeong1998">
+<img src="https://github-readme-stats.vercel.app/api?username=Bonyeong1998">
 
 ---
 
