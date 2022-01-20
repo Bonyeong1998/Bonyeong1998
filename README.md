@@ -1,7 +1,5 @@
 ### Hi there 👋
-<p align="center">	<img src="https://github-readme-stats.vercel.app/api?username=Bonyeong1998&theme=github_dark&show_icons=true" alt="Bonyeong1998's github stats"> </p>
-
-<!---![Bonyeong1998's github stats](https://github-readme-stats.vercel.app/api?username=Bonyeong1998&theme=github_dark&show_icons=true) -->
+![Bonyeong1998's github stats](https://github-readme-stats.vercel.app/api?username=Bonyeong1998&theme=github_dark&show_icons=true)
 <!--
 **Bonyeong1998/Bonyeong1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
