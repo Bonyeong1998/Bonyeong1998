@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Bonyeong1998's github stats](https://github-readme-stats.vercel.app/api?username=Bonyeong1998&theme=github_dark&show_icons=true)
+
 <!--
 **Bonyeong1998/Bonyeong1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bonyeong1998)](https://solved.ac/bonyeong1998/)
+<img align = 'right' src="https://github-readme-stats.vercel.app/api?username=Bonyeong1998">
+
+
+
 ---
+
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
 <div align = center>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
