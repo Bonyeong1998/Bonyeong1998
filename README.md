@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ---
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bonyeong1998&label=PROFILE+VIEWS" alt="Bonyeong1998"> 
+  
+---
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bonyeong1998)](https://solved.ac/bonyeong1998/)
 <img src="https://github-readme-stats.vercel.app/api?username=Bonyeong1998" width="50%">
 
