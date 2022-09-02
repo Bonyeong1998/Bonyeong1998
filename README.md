@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Koo%20Bon%20Yeong&animation=fadeIn&fontSize=85)
 
-<h1 align="center">Hi 👋, I'm Koo Bon Yeong</h1>
+
 <h3 align="center">A Student Developer in Republic of Korea</h3>
 
 <p align="center">
