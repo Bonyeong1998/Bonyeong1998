@@ -8,7 +8,12 @@
 </p>
 
 ## :facepunch: Introduce
-안녕하세요😊, 백앤드 개발자를 꿈꾸며 정진하는 구본영입니다.</br>
+<p align="center">
+사용자에게 즐거운 경험을 제공하는 백엔드 엔지니어를 목표로 하고 있습니다.</br>
+협업과 소통을 중요시하는 개발자가 되기 위해 다양한 경험을 쌓아가고 있습니다.</br>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bonyeong1998&label=PROFILE+VIEWS" alt="Bonyeong1998"> 
 
 ## :computer: Tech Stack
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bonyeong1998&show_icons=true&locale=en&layout=compact" alt="Bonyeong1998" /></p>
