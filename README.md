@@ -1,22 +1,7 @@
 
-<!--
-**Bonyeong1998/Bonyeong1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Kim%20Gi%20Tae&animation=fadeIn&fontSize=85)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... html
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align = center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello Everyone👋&fontSize=70" />
-</div>
-
+<h1 align="center">Hi 👋, I'm Koo Bon Yeong</h1>
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Bonyeong1998&label=PROFILE+VIEWS" alt="Bonyeong1998"> 
