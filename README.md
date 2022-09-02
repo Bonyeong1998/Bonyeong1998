@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Kim%20Gi%20Tae&animation=fadeIn&fontSize=85)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Koo%20Gi%20BonYeong&animation=fadeIn&fontSize=85)
 
 <h1 align="center">Hi 👋, I'm Koo Bon Yeong</h1>
 ---
