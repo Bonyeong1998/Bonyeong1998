@@ -33,9 +33,20 @@
 <img src="https://img.shields.io/badge/-MariaDB-%23003545?style=flat&logo=mariadb&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=flat&logo=amazonaws&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/-Naver%20Cloud%20PlatForm-%2303C75A?style=flat&logo=naver&logoColor=white"></a>&nbsp;
-- **Tools**
 
-- **OS**
+- **Tools** </br>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=flat&logo=apache netbeans ide&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=black"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp;
 
+- **OS** </br>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/-MacOS-%23000000?style=flat&logo=macos&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/></a>&nbsp;
   
 </div>
