@@ -1,35 +1,41 @@
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Koo%20Bon%20Yeong&animation=fadeIn&fontSize=85)
 
 <h1 align="center">Hi 👋, I'm Koo Bon Yeong</h1>
----
+<h3 align="center">A Student Developer in Republic of Korea</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bonyeong1998&label=PROFILE+VIEWS" alt="Bonyeong1998"> 
-  
----
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bonyeong1998&show_icons=true&locale=en" alt="Bonyeong1998">
+</p>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bonyeong1998)](https://solved.ac/bonyeong1998/)
-<img src="https://github-readme-stats.vercel.app/api?username=Bonyeong1998" width="50%">
+## :facepunch: Introduce
+안녕하세요😊, 백앤드 개발자를 꿈꾸며 정진하는 구본영입니다.</br>
 
----
+## :computer: Tech Stack
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bonyeong1998&show_icons=true&locale=en&layout=compact" alt="Bonyeong1998" /></p>
 
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
-<div align = center>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=github">
-  <br/>
-  <img src="https://img.shields.io/badge/intellij IDEA-000000?style=for-the-badge&logo=intellij IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+
+- **Languages** </br>
+<img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat&logo=cplusplus&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-C-%23A8B9CC?style=flat&logo=c&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white"></a>&nbsp;
+
+- **Tech(Framework)** </br>
+<img src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-ROS-%2322314E?style=flat&logo=ros&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-Android-%233DDC84?style=flat&logo=android&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-Arduino-%2300979D?style=flat&logo=arduino&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-MariaDB-%23003545?style=flat&logo=mariadb&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=flat&logo=amazonaws&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/-Naver%20Cloud%20PlatForm-%2303C75A?style=flat&logo=naver&logoColor=white"></a>&nbsp;
+- **Tools**
+
+- **OS**
+
   
 </div>
